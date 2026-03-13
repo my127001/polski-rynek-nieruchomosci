@@ -52,8 +52,8 @@ Zbiór najlepszych darmowych i płatnych narzędzi, portali, baz danych oraz skr
 
 ## 🕵️ Agregatory "okazji" i licytacje komornicze
 
-- [Moniter.pl](https://moniter.pl/) - Popularna aplikacja agregująca oferty z ponad 200 portali, stron spółdzielni oraz licytacji komorniczych [web:34]. Pozwala na ustawienie precyzyjnych alertów pomagających w błyskawicznym wyłapywaniu mieszkań poniżej wartości rynkowej [web:31][web:37].
-- [Adradar.pl](https://www.adradar.pl/) - Zaawansowana przeszukiwarka monitorująca ponad 50 portali ogłoszeniowych i tysiące stron z przetargami [web:36][web:38]. Grupuje zduplikowane ogłoszenia różnych agencji, ułatwia dotarcie do właściciela i śledzi historię obniżek cen nawet od 2017 roku [web:36][web:40].
+- [Moniter.pl](https://moniter.pl/) - Popularna aplikacja agregująca oferty z ponad 200 portali, stron spółdzielni oraz licytacji komorniczych. Pozwala na ustawienie precyzyjnych alertów pomagających w błyskawicznym wyłapywaniu mieszkań poniżej wartości rynkowej.
+- [Adradar.pl](https://www.adradar.pl/) - Zaawansowana przeszukiwarka monitorująca ponad 50 portali ogłoszeniowych i tysiące stron z przetargami. Grupuje zduplikowane ogłoszenia różnych agencji, ułatwia dotarcie do właściciela i śledzi historię obniżek cen nawet od 2017 roku.
 - [MLicytacje.pl](https://mlicytacje.pl/) - Wygodna i przejrzysta wyszukiwarka licytacji komorniczych z całego kraju. Pozwala na znalezienie nieruchomości ze sporym dyskontem w stosunku do cen rynkowych.
 - [Podkluczyk.pl](https://podkluczyk.pl/) - Kombajn analityczny, który automatycznie scrapuje ogłoszenia z ponad 100 portali. Służy do błyskawicznego wyłapywania ofert poniżej wartości rynkowej.
 - [Nbot.pl](https://www.nbot.pl/) - System agregujący oferty z uzupełnionymi, dokładnymi adresami. Pozwala na precyzyjne śledzenie historii lokalu na mapie.
