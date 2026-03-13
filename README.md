@@ -49,10 +49,11 @@ Zbiór najlepszych darmowych i płatnych narzędzi, portali, baz danych oraz skr
 
 - [Otodom Helper](https://chromewebstore.google.com/) - Wtyczka do Chrome przywracająca widoczność prawdziwej daty dodania i modyfikacji ogłoszenia na portalu Otodom, co serwis celowo ukrywa.
 - [Wayback Machine (Wtyczka)](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) - Narzędzie do sprawdzania archiwalnych wersji stron. Przydaje się do podglądania starych cen, zdjęć czy opisów w usuniętych lub zmienionych ofertach.
-- [Wtyczka Zametr](https://zametr.pl/) - Automatycznie zapisuje historię zmian cen i wyświetla na ofercie wykres, jak długo dany lokal „wisi” na portalu i czy właściciel obniża stawkę.
 
 ## 🕵️ Agregatory "okazji" i licytacje komornicze
 
+- [Moniter.pl](https://moniter.pl/) - Popularna aplikacja agregująca oferty z ponad 200 portali, stron spółdzielni oraz licytacji komorniczych [web:34]. Pozwala na ustawienie precyzyjnych alertów pomagających w błyskawicznym wyłapywaniu mieszkań poniżej wartości rynkowej [web:31][web:37].
+- [Adradar.pl](https://www.adradar.pl/) - Zaawansowana przeszukiwarka monitorująca ponad 50 portali ogłoszeniowych i tysiące stron z przetargami [web:36][web:38]. Grupuje zduplikowane ogłoszenia różnych agencji, ułatwia dotarcie do właściciela i śledzi historię obniżek cen nawet od 2017 roku [web:36][web:40].
 - [MLicytacje.pl](https://mlicytacje.pl/) - Wygodna i przejrzysta wyszukiwarka licytacji komorniczych z całego kraju. Pozwala na znalezienie nieruchomości ze sporym dyskontem w stosunku do cen rynkowych.
 - [Podkluczyk.pl](https://podkluczyk.pl/) - Kombajn analityczny, który automatycznie scrapuje ogłoszenia z ponad 100 portali. Służy do błyskawicznego wyłapywania ofert poniżej wartości rynkowej.
 - [Nbot.pl](https://www.nbot.pl/) - System agregujący oferty z uzupełnionymi, dokładnymi adresami. Pozwala na precyzyjne śledzenie historii lokalu na mapie.
@@ -67,4 +68,3 @@ Zbiór najlepszych darmowych i płatnych narzędzi, portali, baz danych oraz skr
 
 ---
 *Jeśli znasz inne przydatne narzędzie, stwórz Pull Request lub otwórz Issue w tym repozytorium!*
-
