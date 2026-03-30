@@ -21,7 +21,7 @@ Zbiór najlepszych darmowych i płatnych narzędzi, portali, baz danych oraz skr
 - [Geoportal](https://www.geoportal.gov.pl/) - Oficjalne państwowe źródło danych przestrzennych. Umożliwia darmowe pobieranie paczek z danymi o transakcjach z Rejestru Cen Nieruchomości (RCN) dla poszczególnych powiatów.
 - [Mój Geoportal](https://mojgeoportal.pl/) - Alternatywny portal mapowy integrujący dane urzędowe. Pozwala na sprawdzanie średnich cen za m² oraz weryfikację numerów ksiąg wieczystych.
 - [1map.pl](https://1map.pl/) - Uproszczona, dedykowana wyszukiwarka danych z RCN. Ułatwia przeglądanie transakcji dzięki czytelnym warstwom tematycznym nałożonym na mapę.
-- [Polska e-mapa](https://polska.e-mapa.net/) - Innowacyjny darmowy serwis mapowy od Geo-Systemu [web:46][web:49]. Stanowi doskonałe narzędzie do przeglądania dokładnych granic działek geodezyjnych, adresów, a także miejscowych planów zagospodarowania przestrzennego (MPZP) i uzbrojenia terenu [web:46].
+- [Polska e-mapa](https://polska.e-mapa.net/) - Innowacyjny darmowy serwis mapowy od Geo-Systemu [web:46][web:49]. Stanowi doskonałe narzędzie do przeglądania dokładnych granic działek geodezyjnych, adresów, a także miejscowych planów zagospodarowania przestrzennego (MPZP) i uzbrojenia terenu.
 
 ## 🔍 Zaawansowane wyszukiwarki i analizy transakcji
 
@@ -50,7 +50,7 @@ Zbiór najlepszych darmowych i płatnych narzędzi, portali, baz danych oraz skr
 
 ## ⚖️ Prawo, notariusze i weryfikacja
 
-- [Sprawdź Notariusza](https://sprawdznotariusza.pl/) - Nowatorskie narzędzie pozwalające na wyszukiwanie notariuszy po mieście lub nazwisku, ułatwiające znalezienie kancelarii do obsługi transakcji [web:45][web:48]. Portal integruje również statystyki transakcji z RCN dla ponad 330 powiatów [web:48].
+- [Sprawdź Notariusza](https://sprawdznotariusza.pl/) - Nowatorskie narzędzie pozwalające na wyszukiwanie notariuszy po mieście lub nazwisku, ułatwiające znalezienie kancelarii do obsługi transakcji. Portal integruje również statystyki transakcji z RCN dla ponad 330 powiatów [web:48].
 
 ## 🧩 Rozszerzenia do przeglądarki (Hacking ogłoszeń)
 
