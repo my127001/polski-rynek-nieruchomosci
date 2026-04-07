@@ -32,6 +32,7 @@ Zbiór najlepszych darmowych i płatnych narzędzi, portali, baz danych oraz skr
 - [LadnieTu.pl](https://ladnietu.pl/) - Platforma łącząca aktualne ogłoszenia sprzedaży ze statystykami z RCN. Jej algorytmy pomagają w szybkim wykrywaniu zjawiska flipowania na rynkach lokalnych.
 - [PricePulse.pl](https://pricepulse.pl/) - Bardzo intuicyjna wyszukiwarka cen transakcyjnych po nazwie miejscowości lub kodzie pocztowym. Idealna do szybkiego sprawdzania lokalnego rynku.
 - [Nonamegiscompany.pl](https://nonamegiscompany.pl/) - Narzędzie skupiające się na działkach (głównie w Małopolsce). Analizuje dodatkowo cechy urbanistyczne i uwarunkowania środowiskowe.
+- [Investoro (Ceny Mieszkań)](https://investoro.pl/ceny-mieszkan/) - Rozbudowany moduł z bazą ponad miliona cen transakcyjnych z całej Polski [web:71]. Narzędzie to ułatwia szacowanie wartości oraz wspiera w negocjacjach ze sprzedającym, pokazując m.in., za ile faktycznie kupiono mieszkanie.
 
 ## 📈 Podaż ogłoszeń, raporty i trendy makroekonomiczne
 
