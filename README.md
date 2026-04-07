@@ -64,6 +64,7 @@ Zbiór najlepszych darmowych i płatnych narzędzi, portali, baz danych oraz skr
 - [MLicytacje.pl](https://mlicytacje.pl/) - Wygodna i przejrzysta wyszukiwarka licytacji komorniczych z całego kraju. Pozwala na znalezienie nieruchomości ze sporym dyskontem w stosunku do cen rynkowych.
 - [Podkluczyk.pl](https://podkluczyk.pl/) - Kombajn analityczny, który automatycznie scrapuje ogłoszenia z ponad 100 portali. Służy do błyskawicznego wyłapywania ofert poniżej wartości rynkowej.
 - [Nbot.pl](https://www.nbot.pl/) - System agregujący oferty z uzupełnionymi, dokładnymi adresami. Pozwala na precyzyjne śledzenie historii lokalu na mapie.
+- [ListaPrzetargow.pl](https://listaprzetargow.pl/) - Największa w Polsce baza przetargów (m.in. spółdzielni, PKP, AMW) i licytacji komorniczych [web:51][web:52]. Platforma oferuje również zaawansowane powiadomienia e-mail o najnowszych ogłoszeniach z rynku wtórnego.
 
 ## 🏠 Główne portale ogłoszeniowe i off-market
 
