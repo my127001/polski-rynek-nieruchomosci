@@ -24,7 +24,7 @@ Zbiór najlepszych darmowych i płatnych narzędzi, portali, baz danych oraz skr
 - [Polska e-mapa](https://polska.e-mapa.net/) - Innowacyjny darmowy serwis mapowy od Geo-Systemu [web:46][web:49]. Stanowi doskonałe narzędzie do przeglądania dokładnych granic działek geodezyjnych, adresów, a także miejscowych planów zagospodarowania przestrzennego (MPZP) i uzbrojenia terenu.
 
 ## 🔍 Zaawansowane wyszukiwarki i analizy transakcji
-
+- [Metroskop.pl](https://metroskop.pl/) - Potężny kombajn analityczny (stworzony przez społeczność). Jako jedyny na rynku nakłada na siebie twarde ceny transakcyjne z RCN, bazę obiektów topograficznych (skaner "uciążliwej" okolicy - np. wysypisk czy kurników) oraz najnowsze pozwolenia na budowę (GUNB).
 - [Cenogram.pl](https://cenogram.pl/) - Zupełnie darmowa wyszukiwarka posiadająca w bazie ponad 7 milionów transakcji z RCN [web:41][web:43]. Oferuje mapę z funkcją zaznaczania obszaru, precyzyjne filtry (rynek, data, typ nieruchomości) i nie wymaga nawet logowania [web:43][web:47].
 - [Deweloperuch.pl](https://deweloperuch.pl/) - Społecznościowa platforma śledząca zmiany cen u deweloperów oraz na rynku wtórnym. Posiada funkcje "flipper alert" i generuje przejrzyste wykresy dla budynków.
 - [TurboRCN.pl](https://turborcn.pl/) - Narzędzie z zaawansowanymi filtrami parametrów transakcji. Umożliwia masowy eksport danych z RCN bezpośrednio do arkuszy Excel.
